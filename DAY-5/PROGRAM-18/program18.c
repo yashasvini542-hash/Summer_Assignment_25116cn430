@@ -11,7 +11,7 @@ int main() {
         for (i = 1; i <= rem; i++) {
             fact *= i;
         }
-        sum=sum+fact;
+        sum=sum+fact;  --
         temp=temp/10;
     }
     if (sum == n)
