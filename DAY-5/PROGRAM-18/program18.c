@@ -15,7 +15,7 @@ int main() {
         temp=temp/10;
     }
     if (sum == n)
-        printf("Entered number is a perfect number.",n);
+        printf("Entered number is a strong number.",n);
         else
         printf("Entered number is not a Strong Number.", n);
     return 0;
