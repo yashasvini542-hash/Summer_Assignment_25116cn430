@@ -13,4 +13,4 @@ int main()
     scanf("%d", &n);
     printf("Factorial = %d", factorial(n));
     return 0;
-}
+}   
