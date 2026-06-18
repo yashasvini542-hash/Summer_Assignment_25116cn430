@@ -22,7 +22,6 @@ int main() {
         c[n1+i]=b[i];
 
     printf("Merged array: ");
-
     for(i=0;i<n1+n2;i++)
         printf("%d ",c[i]);
     return 0;
