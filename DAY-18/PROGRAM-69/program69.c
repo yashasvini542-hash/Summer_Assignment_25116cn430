@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int a[100], n, i, j, temp;
+    int a[100], n, i, j, temp; // what are the binary numbersand linear numbers and how do they impact the severity of the cpmplex in order to filgil the sysytem app 
     printf("Enter number of elements: ");
     scanf("%d", &n);
     printf("Enter elements:\n");
