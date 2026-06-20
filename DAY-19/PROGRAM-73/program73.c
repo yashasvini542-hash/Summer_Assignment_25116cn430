@@ -21,6 +21,5 @@ int main() {
             printf("%d ",sum[i][j]);
         printf("\n");
     }
-
-    return 0;
+    return 0; 
 }
