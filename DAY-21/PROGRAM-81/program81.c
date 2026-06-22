@@ -9,5 +9,5 @@ int main() {
         count++;
     }
     printf("Length = %d", count);
-    return 0;
+    return 0;// ko  bn g++
 }
