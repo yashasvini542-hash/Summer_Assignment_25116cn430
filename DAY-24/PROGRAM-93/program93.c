@@ -11,7 +11,7 @@ int main() {
         return 0;
     }
     strcpy(temp, str1);
-    strcat(temp, str1);
+    strcat(temp, str1);   
     if (strstr(temp, str2))
         printf("String is a rotation");
     else
