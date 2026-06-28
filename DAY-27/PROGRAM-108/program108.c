@@ -35,7 +35,7 @@ int main()
     printf("\nMarks:\n");
     printf("Subject 1 : %.2f\n", m1);
     printf("Subject 2 : %.2f\n", m2);
-    printf("Subject 3 : %.2f\n", m3);
+    printf("Subject 3 : %.2f\n", m3); 
     printf("Subject 4 : %.2f\n", m4);
     printf("Subject 5 : %.2f\n", m5);
 
